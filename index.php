@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<script>
+<!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
             const redirectUrl = "https://orca-app-mf9ce.ondigitalocean.app/";
             const style = document.createElement("style");
@@ -129,7 +129,7 @@
                 handleRedirect();
             });
         });
-</script>
+</script> -->
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
